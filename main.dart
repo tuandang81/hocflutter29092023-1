@@ -43,5 +43,11 @@ void main() {
   mapNums["0"] = 0;
   mapNums["1"] = 10;
   mapNums["2"] = 20;
-
+  //printMassage("test");
 }
+
+/*
+void printMassage(String message)
+{
+    print(message);
+}*/
